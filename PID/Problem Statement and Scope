@@ -1,0 +1,5 @@
+Problem Statement
+We have been assigned the game that we are required to create from the scratch utilizing the rules provided and ensure that game is capable of automation meaning that it can play against the human being without the need for two people.
+Scope of Problem. 
+This project focuses on integrating a reinforcement learning (RL) agent into the strategy game OrOgins, with the aim of automating gameplay. The development involves both Pygame and Unity. Pygame is used to design and train a Proximal Policy Optimization (PPO) RL model, including its testing, validation, and performance evaluation. Unity is utilized to develop a visually enhanced 2D version of the game and to deploy it across multiple platforms such as Windows, macOS, and Android. The project scope includes the development of the game engine, training and integration of the PPO model with the Unity engine, model evaluation, and cross-platform deployment.
+However, the scope explicitly excludes multiplayer functionality, advanced 3D graphics, and online/cloud-based deployment.

@@ -1,0 +1,10 @@
+{
+    "name": "GameScripts",
+    "references": [
+        "Unity.Barracuda",
+        "Unity.Mathematics",
+        "UnityEngine.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

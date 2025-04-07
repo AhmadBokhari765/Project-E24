@@ -1,0 +1,40 @@
+Based on the score we received from the Smart Ethics AI Toolkit score of 6.4/10. Our AI system shows promise in the human-first design, transparency, and sustainability. However, there are critical issues in data privacy, risk mitigation, and real-world readiness. 
+We have prepared an action plan to ensure ethical compliance, governance, and responsible AI deployment.
+Rights & Privacy: 
+Data Privacy Measures
+•	Employ GDPR/CCPA based  data anonymization.
+•	Conduct a Data Protection Impact Assessment (DPIA).
+Impact Management
+•	Implement protocols for user consent and data deletion requests.
+Purpose Realisation
+	Clear Objectives
+o	Before implementing AI in any field, it is essential to classify specific , achievable, related and time-bound goals. Like what AI trying to do? What will be the expected outcome? 
+Scope and Limitations
+o	Understand the boundaries of what Ai can and cannot perform, the environment where it can be applied.
+Risk Evaluation
+	Security and Harm Mitigation 
+o	Employ adversarial testing (reproduce attacks to target weaknesses).
+o	Gather a red-teaming protocol to perform ethical hacking.
+Risk Ownership
+o	Clearly specify accountability of decisions through consent forms or documentations.
+Responsible Redesign 
+	Real-World Testing
+o	Test AI in a sandbox environment with real users
+o	Observe for unpredictable results
+Disruption Metrics 
+o	Track job displacement and reskilling rates.
+o	Use sentimental analysis to evaluate impacts on society.
+Moreover, there are sectors where AI is doing acceptable job. However, there is room for the improve. We have also created suggestive plans to improve on those factors.
+Stakeholders Onboarding
+	Transparency Portal
+o	Create an interactive changelog showcasing how feedback is applied
+Model Performance
+Bias Bounty Program
+o	Reward players for reporting biased/unfair AI behaviours.
+Performance Dashboards
+o	Observe real-time metrics using Grafana or Tableau.
+Global Disruption
+	Cultural Sensitivity Panels
+o	Hire consults from specific regions to review contents from their regions. 
+Localized Playtests
+o	Partner with gaming cafes around the world to test the AI behaviour in their countries. 

@@ -1,0 +1,106 @@
+{
+  "summary": {
+    "total_tests": 26,
+    "passed": 15,
+    "failed": 11,
+    "success_rate": "57.7%"
+  },
+  "details": [
+    {
+      "test": "check_destination_lock",
+      "passed": false,
+      "message": "Creationist_Earth failed to convert square at (2,0)",
+      "details": {
+        "expected": "Creationist_Earth",
+        "actual": "Neutral"
+      }
+    },
+    {
+      "test": "check_draw_conditions",
+      "passed": false,
+      "message": "Evolutionist_Fire failed to convert square at (6,8)",
+      "details": {
+        "expected": "Evolutionist_Fire",
+        "actual": "Neutral"
+      }
+    },
+    {
+      "test": "check_element_chain_reactions",
+      "passed": false,
+      "message": "Creationist_Man missing valid move to (1, 5)",
+      "details": {
+        "position": [
+          0,
+          5
+        ],
+        "valid_moves": []
+      }
+    },
+    {
+      "test": "check_element_conversion",
+      "passed": true,
+      "message": "Creationist_Man movement constraints working at (0, 5)",
+      "details": {
+        "valid_moves": []
+      }
+    },
+    {
+      "test": "check_element_dominance",
+      "passed": false,
+      "message": "Evolutionist_Woman missing valid move to (6, 4)",
+      "details": {
+        "position": [
+          7,
+          4
+        ],
+        "valid_moves": []
+      }
+    },
+    {
+      "test": "check_equal_element_blockade",
+      "passed": true,
+      "message": "Evolutionist_Woman movement constraints working at (7, 4)",
+      "details": {
+        "valid_moves": []
+      }
+    },
+    {
+      "test": "check_gender_movement_restrictions",
+      "passed": true,
+      "message": "Creationist_Woman correctly locked at destination",
+      "details": {
+        "position": [
+          6,
+          4
+        ]
+      }
+    },
+    {
+      "test": "check_multi_turn_strategy",
+      "passed": true,
+      "message": "Evolutionist_Man correctly locked at destination",
+      "details": {
+        "position": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "test": "check_piece_capture",
+      "passed": true,
+      "message": "Element dominance passed: Earth vs Water",
+      "details": {
+        "outcome": "captured"
+      }
+    },
+    {
+      "test": "check_start_row_reentry",
+      "passed": true,
+      "message": "Element dominance passed: Water vs Fire",
+      "details": {
+        "outcome": "captured"
+      }
+    }
+  ]
+}

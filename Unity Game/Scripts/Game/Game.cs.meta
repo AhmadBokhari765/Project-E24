@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0319e164325d0644dbeffff5f606eeec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gamepiece: {fileID: 8623365747807566498, guid: b89f83cafce9ddb49a24184b3643fb16, type: 3}
+  - neutralSquarePrefab: {fileID: 3692013937401127229, guid: d2ed384339126ac4e9b410597b5454ea, type: 3}
+  - earthSprite: {fileID: -6685421513473703928, guid: eeb3f300774441e4da51615a06213b72, type: 3}
+  - waterSprite: {fileID: 2022795086567676220, guid: 658ca09d299e78d4496984466942ff9b, type: 3}
+  - fireSprite: {fileID: 7323847926860770086, guid: 3ee406c6695bb7f4dbc513c3097ac4b5, type: 3}
+  - airSprite: {fileID: 6266326099267194032, guid: fe1dd64c733f5dd4bb1fc7b334104fbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

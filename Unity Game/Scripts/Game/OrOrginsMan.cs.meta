@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 4971d69565b44054f8137135a5b5d35d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - movePlate: {fileID: 166225358658639669, guid: 262b84f73c3eb834fb6d464234bb4c70, type: 3}
+  - fireSquarePrefab: {fileID: 4541367768838971856, guid: 7945cecc02bcf594c8c17e33d50a347e, type: 3}
+  - waterSquarePrefab: {fileID: 8623365747807566498, guid: b89f83cafce9ddb49a24184b3643fb16, type: 3}
+  - earthSquarePrefab: {fileID: 3372308409475846111, guid: 76f07525609434441834a45ee339cc02, type: 3}
+  - airSquarePrefab: {fileID: 1352345588820976403, guid: 1f36410aa05aeff49bb762e64f0a9083, type: 3}
+  - man: {fileID: 7978599503883519929, guid: ab7cd472c134b544aa5eedb1937fc6aa, type: 3}
+  - woman: {fileID: 6047752347147467583, guid: 2a2ad228a414eec4bbe8a1a8f8648b68, type: 3}
+  - air: {fileID: 4311277859609562655, guid: 1e2262d0a9d45f0409abcfb901f5feb8, type: 3}
+  - earth: {fileID: 6423806749927177598, guid: 167c3ff6e227c464a9e04d095c8830f9, type: 3}
+  - water: {fileID: -6967114182322550250, guid: 6ba77cb481e8868419c4c1bc842c4661, type: 3}
+  - fire: {fileID: 1098286324429101383, guid: a7ab500c0f2566a4e9effd41a7fa73d8, type: 3}
+  - ape_man: {fileID: -2059666976869426875, guid: 8b868e7bfbe40474594305a90265eacf, type: 3}
+  - ape_woman: {fileID: -6776367743620383020, guid: dfdcf075f23474245b9d903e74c900f7, type: 3}
+  - evolutionist_air: {fileID: 7845928520779737669, guid: 8ab8b0419635dcf419e3852a1ffdaf26, type: 3}
+  - evolutionist_earth: {fileID: 4775218341592239268, guid: b06fd6b7523ff8a46ad9ff4ac76eeea3, type: 3}
+  - evolutionist_water: {fileID: -6124395276016742822, guid: 83f772cdac7929b4b8f7d64738abb1e8, type: 3}
+  - evolutionist_fire: {fileID: 8481846417667748990, guid: 463ab627fd407414898ca4bff97e65fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

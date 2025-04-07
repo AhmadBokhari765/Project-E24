@@ -1,0 +1,33 @@
+AIMS:
+To develop OrOrigins, a strategic two-player board game integrated with Reinforcement Learning (using Proximal Policy Optimization), enabling an AI agent to learn through self-play, adapt to new scenarios, and provide a fully digitized, interactive.
+Objectives:
+1. Game Design & Environment Development:
+•	Design and implement a 10x8 board with interactive game pieces.
+•	Develop movement logic based on the rules of the game and restricts invalid ones.
+•	Redesign the game pieces and game board on unity.
+2. Reinforcement Learning:
+•	Define the state space, action space, and reward function for the RL agent.
+•	Implement a self-play framework where the AI agent can train against itself.
+•	Train the agent using Proximal Policy Optimization (PPO) to learn optimal strategies over time.
+3. Environment Development:
+•	Build the Origins game environment using Pygame (or Unity if required) or unity , including visuals, logic, and player interaction handling.
+•	Develop a custom gym environment for Origins.
+4. AI Integration
+•	Train and integrate the RL agent using ML-Agents or custom pipelines to automate decision-making and enable gameplay against human players.
+5. Game Logic Implementation
+•	Implement core game rules, including:
+•	Movement validation, turn management, and feedback on move legality.
+•	Piece interaction logic (e.g., blocking, capturing, special effects).
+•	Elemental affinity rules and interaction outcomes.
+•	Enforce movement rules for elemental and male/female pieces.
+•	Apply elemental rules: Same Element, Dominant Element, and Equal Element logic for interaction and capturing.
+•	Enable male/female pieces to move only on elemental squares, disallow backward movement and capturing.
+•	Develop capture mechanics for both elements and male/female pieces based on element strength and neutralization.
+•	Define win/loss/draw conditions based on piece progression, captures, and move availability.
+•	Manage real-time game state updates including board status, turn switching, and rule-based feedback.
+
+6. Testing & Evaluation
+•	Evaluate the performance of the AI agent and user experience through test runs, feedback, and adjustments to maximize engagement and fairness.
+7. Deployment 
+•	Deploy the game on multiple Platforms like windows, Mac Os and android.
+

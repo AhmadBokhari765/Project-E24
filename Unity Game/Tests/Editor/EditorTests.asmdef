@@ -1,0 +1,10 @@
+{
+    "name": "EditorTests",
+    "references": [
+        "GameScripts",
+        "Unity.Barracuda"
+    ],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": []
+}

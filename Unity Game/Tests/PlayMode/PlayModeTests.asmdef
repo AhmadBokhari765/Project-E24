@@ -1,0 +1,10 @@
+{
+    "name": "PlayModeTests",
+    "references": [
+        "GameScripts",
+        "Unity.Barracuda"
+    ],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

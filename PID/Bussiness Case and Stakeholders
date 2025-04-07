@@ -1,0 +1,24 @@
+Business Case and Stakeholders
+Business Case: To answer why are we doing this, we have to look at different aspects of the game.
+Summary and Problem Statement
+Origins is a strategic board game with its unique elemental and character-based rules. It integrates an AI engine capable of providing challenging gameplay and could include multiplayer mode in the future. This project introduces a new innovation compared to traditional board games to provide entertainment.
+Objectives
+•	Create an engaging single player mode, which could be expanded to multiplayer mode.
+•	Create an efficient RL Agent.
+•	Ensure smooth deployment on multiple platforms and cross-play.
+•	Pitch it to Esport board-players for promotion
+Risk Analysis
+•	The development of the game would still require several months
+•	The availability of team members to still stay motivated
+•	The complexity of game logic implementation on unity and loading the RL model.
+Benefits
+•	It could attract large audience of board players due to its unique and entertaining rules.
+•	The game is designed in a way that it can be provided further updates to keep its interface interesting and fresh.
+•	An efficient RL Agent will provide challenge to the players.
+
+The OrOgins game
+Stakeholders 
+Development Team is tasked for designing, implementation and integration. 
+Academic Supervisors provides technical assistance and evaluation. 
+End Users (Players) Players who will interact with the RL-based game.
+Game Developers are responsible for designing, developing and refining the visual and interactive elements of the OrOgins game.

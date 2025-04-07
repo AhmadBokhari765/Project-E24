@@ -1,0 +1,21 @@
+Research Methodology of the Project:
+The research methodology for the whole project follows the systematic achievements to ensure the complete of the project.
+Literature Review:
+•	Examine existing studies on RL in gaming to identify best practices to identify effective training environments, rewards strategies and challenges.
+•	Explore PPO ( Proximal Policy Optimization) as a policy-gradient method suitable for sparse-reward games like OrOgins.
+•	Review the technical documentation and academic papers on Unity ML-Agents, Pygame, and Unreal Engine for suitability in AI game automation.
+•	 Examine literature on Multidisciplinary issues of  AI in gaming, specially around autonomy, fairness, human oversight in decision-making, environmental issues, sustainability, data protection and human computer interaction, professional and legal issues.  
+Comparative Analysis
+•	Assess Unity, Unreal Engine and Pygame  for the appropriateness in terms of compatibility, scalability, and support for RL integration.
+•	(comparison between Learning and PPO why was one chosen.)
+•	
+Experimental Design 
+Implementation
+•	Advance middleware or APIs to join the RL model to the game engine
+•	Automate in-game activities, such as NPC decision-making and event triggers.
+•	Build the game engine in Pygame for the model testing and Unity for the final game implementation for better Visual representation and deployment on the playable platforms like Windows, MacOS and Android. 
+Validation and Testing
+•	Conduct iterative testing to measure performance, gameplay fluidity, and player satisfaction. 
+•	Use key metrics such as response time, decision precision, and system strength to evaluate success.
+Ethical Evaluation 
+•	Use the Smart Ethics AI Toolkit to assess the multidisciplinary issues of Artificial Intelligence in games like Responsible AI, privacy, data protection, safe AI use, ethics, law and governance. 

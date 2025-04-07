@@ -1,0 +1,33 @@
+Constraints and Limitations
+•	Time Constraints 
+The project must be completed within the academic year, which restricts the scope of exploration, testing and enhancements.
+•	No Multiplayer Support: 
+The game is designed to be played only as single player limiting the scope of multiplayer and networking.
+•	2D Graphics Only: 
+Advanced 3D graphics are not implemented due to time constraints.
+•	Offline Deployment Only:
+The game can not be deployed online straightaway for cloud gaming. The game is limited to be deployed on Windows, MacOS and Android platform.
+ 
+Opportunities/Growth Areas
+•	Updating the Theme and Skins of the Game based on the Local Festivals and Events.
+Providing region specific themes like national day of the country and changing the themes and skins of the pieces according to local festivals like Christmas and introduce paid skins for the users who want to support the game could keep the game looking fresh.
+Expansion on different platforms.
+Making the game available to be played online so that can players can compete against each other online. Introduce the ranking system and leaderboard showing the best players in the game to encourage competition. Also make the game available to be cross played on different platforms like Xbox and Windows.
+
+•	RL Model Improvements.
+Develop a better RL Agent with a better build custom environment, so that the performance of AI is improved and it can play more competitively against Human Players.
+
+•	Increase Game Awareness
+Sponsor Esport players and content creators to market this game as the game got a lot of potential and esport players with big audience would help to attract a large audience and revenue.
+
+Challenges and Issues
+•	Technical Skill Gap Between Team Members.
+Team members have varied skill in the reinforcement learning.  
+•	Lack of Motivation Among Team Members
+Retaining prolonged motivation in a long-term academic project is challenging. Unequal work distribution, unclear roles, and lack of visible progress can lead to procrastination.  
+•	Implementation of Game Logic
+Implementing the Elemental Rules in the game has been a great challenge due to overlapping rules and complex logic from the programming prespective.
+•	Testing the RL Model
+Training, validating and evaluating the PPO model involves iterative experimentation and fine-tuning.  
+•	Working on different methodologies SDLC for game development and CRISP-DM for the model development.
+Implying two distinctive methodologies SDLC for game development and CRISP-DM for AI model development and modelling demands careful planning to ensure both methodologies complement each other instead of conflicting

@@ -1,0 +1,14 @@
+Domain Knowledge 
+Domain knowledge for our project refers to the mechanics and rules of the game as this knowledge is essential for creation of the game.
+•	Movement Rules: This specifies that pieces can only move diagonally, horizontally or vertically. Players cannot move onto their own or the opponent's starting row once they have left it.
+•	Elemental Rules: Neutral Squares can be passed over by elements but change their status to reflect the element’s presence. A piece of the same element will not change the status of a square it moves over. The game incorporates an elemental hierarchy system where each element has strengths and weaknesses. For example, Fire defeats Air, Earth defeats Water, and so on.
+•	Capture Mechanics: Understanding when and how a piece can capture another is key to game progression. Capture is allowed when a player's piece moves onto a tile occupied by an opponent’s piece, provided the elemental hierarchy allows it. Equal-strength elements (e.g., Earth vs. Fire) cannot capture or pass each other.
+•	Female/Male pieces: Male and female pieces can move over squares with Earth, Water, Fire, or Air, but cannot move onto neutral squares or move backward. To capture the male or female piece, the player must neutralize the element square it occupies by passing over it with a stronger element.
+•	Winning Conditions: A player can win the game by either
+•	Eliminating both the male and female characters of the opposing team.
+•	Reaching the opponent’s base zone with one of their pieces.
+Data Availability
+For our game, we did not rely on any external data to created our game or train our AI model. Instead, we made use of gym.env to create our custom game environment to stimulate gameplay and generate synthetic data.
+Our synthetic data was based on how well defined
+•	State, action and Observation spaces were
+•	How well were the rules applied.

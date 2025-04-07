@@ -6,6 +6,7 @@ We have been assigned the game that we are required to create from the scratch u
 
 # Functional and Non-Functional Requirements
 Functional Requirements
+
 Installation of Unity and Microsoft Visual Studio for setting up game environment.
 Game mechanics: The game should allows players to control pieces on a board to ensure they move according to the rules. 
 Playability: The game should be playable between human to human, and human to AI.
@@ -18,6 +19,7 @@ Game Restart: Player should be able to restart the game at any point while playi
 Move suggestions: The game should provide hint to the user for available move for each piece to eliminate incorrect moves.
 
 Non-Functional Requirements
+
 Functional Requirements	Non-Functional Requirements
 Installation of Unity and Microsoft Visual Studio for setting up game environment.	Cross-platform Compatibility: The game should be playable on multiple platforms, like Windows and potentially mobile devices.
 Game mechanics: The game should allows players to control pieces on a board to ensure they move according to the rules. 	User Experience (UX): The game should deliver an interactive experience for the player with balanced complexity, receptive AI and visually attractive graphics.  
